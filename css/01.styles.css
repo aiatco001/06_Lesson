@@ -1,0 +1,27 @@
+h1, h2, h3{
+		text-align: center;
+}
+h2{
+	color: blue;
+}
+h3{
+		font-size: 16px;
+			color: red;
+}
+h1.a, h2.a, h3.a{
+		text-align: center;
+		color: red;
+}
+h3.a{
+		font-size: 16px;
+}
+li i{
+   color: red;
+}
+p i{
+     color: green;
+}
+
+p b i{
+	color: blue;
+}
